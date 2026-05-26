@@ -1,4 +1,4 @@
-# MarsAI QR Code Suite 🟩🔍
+# QrCodeChecker 🟩🔍
 
 A complete QR Code generation and webcam-based scanning suite for React. It contains a customizable generator page (with logo integration and downloads) and a real-time scanner page with camera feed decoding and token validation.
 
