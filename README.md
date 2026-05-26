@@ -120,6 +120,24 @@ new QRCodeStyling({
 
 ---
 
-## License 📄
+## License ⚖️
 
-This project is licensed under the MIT License. Feel free to use and adapt it!
+> **⚠️ This software is proprietary. All rights reserved.**
+
+This component is **NOT open-source**. The source code is publicly visible for evaluation purposes only.
+
+**You may NOT:**
+- ❌ Use this component in any project without purchasing a license.
+- ❌ Copy, fork, or redistribute the code.
+- ❌ Create derivative works for distribution.
+
+**You MAY:**
+- ✅ View and study the source code for learning purposes.
+- ✅ Purchase a commercial license to use it in your projects.
+
+### 💰 Purchase a License
+
+For pricing and licensing inquiries, contact:
+- **GitHub:** [@syrinedev-06](https://github.com/syrinedev-06)
+
+See the full [LICENSE](./LICENSE) file for details.
