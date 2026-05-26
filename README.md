@@ -139,5 +139,7 @@ This component is **NOT open-source**. The source code is publicly visible for e
 
 For pricing and licensing inquiries, contact:
 - **GitHub:** [@syrinedev-06](https://github.com/syrinedev-06)
+- **Email** [@Email](stawren@hotmail.fr)
+
 
 See the full [LICENSE](./LICENSE) file for details.
